@@ -45,4 +45,19 @@ A succinct look at what this project provides and why it’s useful.
   <img width="700" alt="Schematic preview" src="https://github.com/user-attachments/assets/3111c2fd-e47a-4a73-854b-1e04f8166388" />
 </p>
 
+---
+
+## 📄 Bill of Materials (BOM)
+
+| ID | Designator(s) | Footprint | Quantity | Value / Part | Notes |
+|----|---------------|-----------|----------|--------------|-------|
+| 1 | U1 | DIP-8_W7.62mm | 1 | NE555P | Timer IC |
+| 2 | RV3 | R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm | 1 | 50K Potentiometer | Flash speed control |
+| 3 | Ce1 | CP_Radial_D5.0mm_P2.00mm | 1 | 0.01 µF | Timing capacitor |
+| 4 | D12, D10, D6, D2, D8, D7, D11, D5, D9, D1 | LED_D3.0mm | 10 | LEDs | Perimeter lighting |
+| 5 | U2 | N16 | 1 | 4017 | Decade counter |
+| 6 | R2 | R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm | 1 | 470 Ω | LED resistor |
+| 7 | R3 | R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm | 1 | 1 kΩ | Timing resistor |
+| 8 | C3 | CP_Radial_D5.0mm_P2.00mm | 1 | 1 µF | Timing capacitor |
+
 
