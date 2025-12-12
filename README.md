@@ -45,13 +45,4 @@ A succinct look at what this project provides and why it’s useful.
   <img width="700" alt="Schematic preview" src="https://github.com/user-attachments/assets/3111c2fd-e47a-4a73-854b-1e04f8166388" />
 </p>
 
----
-
-## 📦 Included Files
-- **KiCad Project (.kicad_pro)**  
-- **Schematic (.kicad_sch)**  
-- **Board Layout (.kicad_pcb)**  
-- **3D Model & Rendering Files (.step / .wrl / render.png)**  
-- **Gerbers for fabrication (.zip)**
-
 
